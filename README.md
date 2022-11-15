@@ -9,7 +9,7 @@
     - git init
     - git add .
     - git commit -m "First commit"
-    - git push origin master
+    - git push origin main
 
 ### Délais
 Vous avez 04 heures pour finir ce TP. les TPs vont être pris en compte dans la note de CC. Les devoir en retard ne seront pas acceptés
