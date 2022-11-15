@@ -7,6 +7,7 @@
 - Vous devez ensuite ajouter votre projet comme un module de ce repository.
 - Pour cela, suivre les étapes suivantes: 
     - git init
+    - git remote add origin https://github.com/ETOUGUE/system-programming-2022.git
     - git add .
     - git commit -m "First commit"
     - git push origin main
