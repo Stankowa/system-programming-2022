@@ -13,3 +13,10 @@
 
 ### Délais
 Vous avez 04 heures pour finir ce TP. les TPs vont être pris en compte dans la note de CC. Les devoir en retard ne seront pas acceptés
+
+#Exercice 1 [Rappel d’UNIX : gestion des processus]
+Se familiariser avec les différentes options de la commande ps en lisant man ps.
+1. Quel est le processus de pid 1 ?
+2. Ecrivez un programme qui passe le temps à attendre. Ouvrer une autre invite de commande et taper la commande ps aux. Que constatez-vous ?
+3. Lancer le programme ci-dessous avec les arguments 10 20. Tapez ps-la dans un autre terminal avant la fin du père, avant la fin du fils. Quels sont les ppid du pere et du fils ? Donnez une explication.
+4. Lancer le programme ci-dessous avec les arguments 10 0. Tapez ps-la dans un autre terminal avant la fin du père. Que constatez-vous ?
