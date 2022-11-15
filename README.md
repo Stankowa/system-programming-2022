@@ -13,7 +13,7 @@
     - git push origin main
 
 ### Délais
-Vous avez 04 heures pour finir ce TP. les TPs vont être pris en compte dans la note de CC. Les devoir en retard ne seront pas acceptés
+Vous avez jusqu'au 15/11/2022 à 20H pour envoyer votre TP. les TPs vont être pris en compte dans la note de CC. Les devoir en retard ne seront pas acceptés
 
 ### Exercice 1 [Rappel d’UNIX : gestion des processus]
 Se familiariser avec les différentes options de la commande ps en lisant man ps.
